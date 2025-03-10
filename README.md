@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python virtual_keyboard.py
+python keyboard.py
 ```
 
 ### Gestures Guide
