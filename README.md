@@ -7,11 +7,11 @@ A computer vision-based virtual keyboard that allows users to type without physi
 ## Features
 
 - ✨ Virtual keyboard overlay on webcam feed
-- 👆 Type by pointing with your index finger
+- 👆 Type by pointing with index finger
 - 👌 Click by bringing index and middle fingers together
 - ✊ Pause interaction by making a fist
 - ⏱️ Visual feedback with progress indicators for clicks
-- ⌨️ Full QWERTY keyboard layout
+- ⌨️ A keyboard layout
 - 🔙 Backspace and Clear All functionality
 
 ## How It Works
@@ -21,7 +21,7 @@ This application uses:
 - **MediaPipe** for hand landmark detection and tracking
 - Gesture recognition algorithms to interpret hand movements
 
-The system tracks the tip of your index finger to identify which key you're pointing at, and detects when your index and middle fingers come together to register a click.
+The system tracks the tip of the index finger to identify which key you're pointing at, and detects when your index and middle fingers come together to register a click.
 
 ## Requirements
 
