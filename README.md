@@ -2,7 +2,7 @@
 
 A computer vision-based virtual keyboard that allows users to type without physical contact using hand gestures captured through a webcam.
 
-![Virtual Keyboard Demo](https://github.com/Jannat20242NSU/User-story/blob/main/keyboard.gif)
+![Virtual Keyboard Demo](https://github.com/Jannat-sultana/User-story/blob/main/keyboard.gif)
 
 ## Features
 
@@ -36,7 +36,7 @@ The system tracks the tip of the index finger to identify which key you're point
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Jannat20242NSU/hand-gesture-virtual-keyboard.git
+git clone https://github.com/Jannat-sultana/hand-gesture-virtual-keyboard.git
 cd hand-gesture-virtual-keyboard
 ```
 
